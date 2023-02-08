@@ -1,3 +1,5 @@
+![alt text](https://media.istockphoto.com/id/694508010/photo/binary-matrix-computer-data-code-seamless-background-binary-code-for-programming.jpg?s=612x612&w=0&k=20&c=WwM7UphcChpXXTadOvf1XYOIrKLUNzhIko0FvRMdADo=)
+
 <h1 align="center">Hi 👋, I'm Francis S. Domingo</h1>
 <h3 align="center">A data analyst in training...</h3>
 
